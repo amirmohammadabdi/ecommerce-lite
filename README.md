@@ -34,14 +34,14 @@ mainFolder/
 
 # Setup Instructions
 - clone:
-    > git clone origin https://github.com/amirmohammadabdi/ecommerce-lite
-    > cd mainFolder
+    `git clone origin https://github.com/amirmohammadabdi/ecommerce-lite`
+    `cd mainFolder`
 - Frontend: 
-    > cd ecommerce
-    > npm install
+    `cd ecommerce`
+    `npm install`
 - Backend:
-    > cd backend
-    > npm install
+    `cd backend`
+    `npm install`
 
 # Environment Variables
 - Create .env.local for the fonrtend. Create .env for the backend.
@@ -55,13 +55,13 @@ mainFolder/
 
 # Running the Project
 - Backend:
-    > cd backend
-    > npm run start
+    `cd backend`
+    `npm run start`
 - Front:
-    > cd ecommerce
-    > npm run dev
+    `cd ecommerce`
+    `npm run dev`
 
 # Build for Production
 - Frontend:
-    > cd ecommerce
-    > npm run build
+    `cd ecommerce`
+    `npm run build`
