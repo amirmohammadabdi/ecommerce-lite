@@ -1,4 +1,4 @@
-# My Project Name
+# Ecommerce-Lite
 
 A full-stack ecommerce application with a Next.js frontend and a Node.js backend, where users can register as buyers or sellers.
 
