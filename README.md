@@ -16,6 +16,7 @@ A full-stack ecommerce application with a Next.js frontend and a Node.js backend
 - Secure authentication using JWT and bcrypt
 
 ## Tech Stack
+- Next.js for frontend
 - Node.js
 - Express.js
 - MongoDB
@@ -28,10 +29,13 @@ A full-stack ecommerce application with a Next.js frontend and a Node.js backend
 
 ## Project Structure
 mainFolder/
-├── frontend/
+├── ecommerce/
 └── backend/
 
 # Setup Instructions
+- clone:
+    > git clone origin https://github.com/amirmohammadabdi/ecommerce-lite
+    > cd mainFolder
 - Frontend: 
     > cd ecommerce
     > npm install
